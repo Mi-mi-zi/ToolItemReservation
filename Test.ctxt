@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ The\ Test\ class\ is\ used\ to\ run\ and\ test\ the\ Shop\ system\r\n\ \r\n\ It\ creates\ a\ Shop\ object\ and\ calls\ different\ methods\ to\ \:\r\n\ -\ read\ data\r\n\ -\ display\ data\r\n\ -\ search\ for\ items\ and\ customers\r\n\ -\ make\ reservations\r\n\ -\ print\ and\ delete\ reservations\r\n\ \r\n\ -\ this\ is\ mainly\ used\ for\ testing\ that\ everything\ works\ correctly\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ is\ where\ the\ program\ starts,\ it\ runs\ different\ tests\ on\ the\ Shop\ system\r\n
+numComments=2

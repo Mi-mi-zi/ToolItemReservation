@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Workwear
+comment0.text=\r\n\ this\ class\ represents\ a\ workwear\ item\r\n\ it\ extends\ the\ accessory\ class,\ so\ it\ inherits\ its\ properties\ and\ methods\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Workwear()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Workwear\r\n
+comment2.params=lineScanner
+comment2.target=void\ readData(java.util.Scanner)
+comment2.text=\r\n\ Reads\ data\ from\ a\ scanner\ (e.g.\ from\ a\ file)\r\n\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ prints\ all\ details\ to\ the\ screen\r\n
+numComments=4

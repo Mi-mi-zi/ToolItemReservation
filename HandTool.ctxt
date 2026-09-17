@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HandTool
+comment0.text=\r\n\ The\ HandTool\ class\ represents\ a\ tool\ that\ is\ used\ by\ hand,\ it\ extends\ the\ Tool\ class\ so\ it\ inherits\ all\ its\ \r\n\ properties\ and\ methods\r\n\ this\ class\ adds\ extra\ information\ about\ whether\ the\ tool\ can\ be\ sharpened\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HandTool()
+comment1.text=\r\n\ \ default\ constructor\ for\ objects\ of\ class\ HandHeldTool\r\n\ \ calls\ the\ constructo\ of\ the\ parent\ class\ (Tool)\r\n
+comment2.params=lineScanner
+comment2.target=void\ readData(java.util.Scanner)
+comment2.text=\r\n\ reads\ data\ from\ a\ Scanner\r\n\ it\ first\ reads\ common\ data\ from\ the\ parent\ class,\ then\ it\ reads\ perishable-specific\ data\r\n\ @param\ lineScanner\ Scanner\ object\ used\ to\ read\ input\ data\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\nprints\ all\ details\ of\ the\ hand\ tool\r\nfirst\ prints\ details\ from\ parent\ classes,\r\nthen\ prints\ HandTool-specific\ details\r\n
+numComments=4
